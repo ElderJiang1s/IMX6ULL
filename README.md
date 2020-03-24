@@ -1,3 +1,3 @@
 # IMX6ULL
-# IMX6ULL底板，核心版是某火IMX6ULL BTB核心板
+IMX6ULL底板，核心版是某火IMX6ULL BTB核心板\r\n
 已知BUG1：PMIC_ON_REQ拉低后，UART1引脚会通过CH340G倒灌电流，要加隔离
